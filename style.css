@@ -1,0 +1,9 @@
+li {
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  nav {
+    width: 50%; 
+    border:solid cornflowerblue 5px;
+ }
